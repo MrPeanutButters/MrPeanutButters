@@ -8,7 +8,7 @@ I bring 15+ years of enterprise IT experience and hands-on SOC expertise through
 
 ## 🚀 Featured Projects  
 
-### 🛡️ SOC Homelab  
+### 🛡️ Homelab  
 
 - **SIEM:** Splunk Enterprise (log ingestion, correlation, dashboards)  
 - **IDS/IPS:** Suricata on Security Onion (network monitoring & rule tuning)  
