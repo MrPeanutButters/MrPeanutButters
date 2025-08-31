@@ -27,12 +27,14 @@ I bring 15+ years of enterprise IT experience and hands-on SOC expertise through
 
 ## 🧰 Core Skills  
 
-- **SIEM:** Splunk, Microsoft Sentinel  
-- **IDS/IPS:** Suricata, Zeek  
-- **Vulnerability Mgmt:** Nessus Essentials, Ivanti  
-- **IR & SOC Ops:** Alert triage, threat hunting, incident documentation  
-- **Microsoft 365 Security:** Purview DLP, MFA, Conditional Access  
-- **Frameworks:** MITRE ATT&CK, NIST 800-53, CIS Controls  
+- **Security Operations:** Incident response, alert triage, threat hunting, phishing investigation, endpoint hardening, vulnerability remediation
+- **SIEM & Log Analysis:** Splunk (dashboards, correlation rules, log parsing), Microsoft Sentinel, Sysmon, Event Viewer
+- **IDS/IPS & Network Monitoring:** Suricata (rule tuning, packet inspection), Zeek (network protocol analysis), Cisco Meraki
+- **Vulnerability Management:** Nessus Essentials (CVE scanning, prioritization, exploit validation), Ivanti (patch automation, compliance)
+- **Identity & Access Management:** Active Directory, Entra ID (Azure AD), Microsoft Purview (DLP, retention, MFA, Conditional Access), BeyondTrust
+- **Frameworks & Compliance:** MITRE ATT&CK, NIST 800-53/800-61, CIS Controls, FedRAMP, ISO 27001
+- **Scripting & Automation:** PowerShell (AD/O365 automation, security tasks), Python (automation, log parsing)
+- **Systems & Platforms:** Windows 10/11, Ubuntu, Kali Linux, macOS, Microsoft 365 Admin, SCCM, JAMF
 
 ---
 
