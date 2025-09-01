@@ -29,7 +29,7 @@ Replicating enterprise SOC Tier 1–2 workflows to sharpen detection, response, 
 ## 🧰 Core Skills  
 
 - **Security Operations:** Incident response, threat hunting, alert triage, endpoint hardening, phishing investigation, vulnerability remediation  
-- **SIEM & Log Analysis:** Splunk (dashboards, correlation rules), Microsoft Sentinel, Sysmon, Event Viewer  
+- **SIEM & Log Analysis:** Splunk (dashboards, correlation rules), Sysmon  
 - **IDS/IPS & Network Monitoring:** Suricata, Zeek, Cisco Meraki  
 - **Vulnerability Management:** Nessus Essentials, Ivanti patch automation & compliance  
 - **IAM & Data Protection:** Active Directory, Entra ID (Azure AD), Microsoft Purview (DLP, MFA, retention policies, Conditional Access), BeyondTrust  
