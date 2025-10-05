@@ -2,7 +2,7 @@
 
 🔐 Cybersecurity Professional | SOC Analyst | Incident Response | Vulnerability Management  
 
-I bring 15+ years of enterprise IT experience and proven SOC expertise through hands-on practice in both enterprise environments and a fully operational homelab. My focus is on detection engineering, incident response, vulnerability management, and compliance—bridging IT operations with security to deliver measurable improvements in resilience.  
+I bring 15+ years of enterprise IT experience and proven SOC expertise through hands-on practice in both enterprise environments and a fully operational homelab. My focus is on detection engineering, incident response, vulnerability management, and compliance, bridging IT operations with security to deliver measurable improvements in resilience.  
 
 ---
 
