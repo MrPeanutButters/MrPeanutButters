@@ -46,8 +46,7 @@ Replicating enterprise SOC Tier 1–2 workflows to sharpen detection, response, 
 
 ## 📄 Resume & Cover Letter  
 
-- [📑 Resume](https://github.com/user-attachments/files/22709535/Chris-Bebawy.pdf)
-- [✉️ Cover Letter](https://github.com/user-attachments/files/22709538/Chris.Bebawy_Cover.Letter.docx)
+- [📑 Resume][Chris Bebawy_Analyst.pdf](https://github.com/user-attachments/files/25198002/Chris.Bebawy_Analyst.pdf)
 
 
 ---
