@@ -39,14 +39,16 @@ Replicating enterprise SOC Tier 1–2 workflows to sharpen detection, response, 
 
 ## 🎓 Certifications  
 
-- CompTIA Security+ (SY0-701)  
-- Google Cybersecurity Professional Certificate  
+- CompTIA Security+ (SY0-701)(https://github.com/user-attachments/files/25469181/CompTIA.Security%2B.ce.certificate.pdf)
+- Google Cybersecurity Professional Certificate(https://github.com/user-attachments/files/25469184/Google.Cybersecurity.Certificate.of.Completion.pdf)
+
 
 ---
 
 ## 📄 Resume & Cover Letter  
 
-- [📑 Resume][Chris Bebawy_Analyst.pdf](https://github.com/user-attachments/files/25198002/Chris.Bebawy_Analyst.pdf)
+- [📑 Resume](https://github.com/user-attachments/files/25469177/Chris.Bebawy.Resume.pdf)
+
 
 
 ---
